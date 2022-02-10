@@ -1,3 +1,4 @@
+
 # Introduction to Kaboom JS
 
 This repository has been setup so you can begin your Kaboom JS game dev adventure!
@@ -26,7 +27,32 @@ kaboom({
   debug: true,
 });
 ```
+Once you have this set up, install this Live Server VS Code extension:
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+Run the index.html using Live Server by pressing the blue "Go Live" button on the bottom VS Code taskbar..
 
 ## First steps
-The Kaboom introduction is very beginner friendly and will explain the basics of creating sprites (essentially objects that you want in your game) and implementing their behaviour on user input.
+The Kaboom introduction is very beginner friendly.
 https://kaboomjs.com/doc/intro
+
+This tutorial will teach you how to:
+- Load objects into your game (sprites)
+- Implement movement for these objects
+- Handle user input to control an object
+- Create levels (scenes) for your game
+
+## Exploring the programming patterns and possibilities
+The demo games available in Kaboom Playground (https://kaboomjs.com/play?demo=rpg) are fantastic as case studies for the conventions and computational thinking patterns needed to develop games using Kaboom.
+
+We highly recommend exploring these demo's and their code (they are very beginner friendly while being very capable). You can easily extend and build on top of the excellent foundations provided.  
+
+### More fundamentals to explore
+- Loops
+- Collision 
+- Layers (foreground, background, UI, like CSS z-index)
+- Events
+- Assets
+
+## Additional resources
+https://www.youtube.com/watch?v=XX93O4ZVUZI
