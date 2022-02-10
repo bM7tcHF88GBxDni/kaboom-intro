@@ -43,9 +43,9 @@ This tutorial will teach you how to:
 - Create levels (scenes) for your game
 
 ## Exploring the programming patterns and possibilities
-The demo games available in Kaboom Playground (https://kaboomjs.com/play?demo=rpg) are fantastic as case studies for the conventions and computational thinking patterns needed to develop games using Kaboom.
+The demo games available in Kaboom Playground (e.g. https://kaboomjs.com/play?demo=rpg) are fantastic as case studies for the conventions and computational thinking patterns needed to develop games using Kaboom.
 
-We highly recommend exploring these demo's and their code (they are very beginner friendly while being very capable). You can easily extend and build on top of the excellent foundations provided.  
+We highly recommend exploring these demos and their code (they are very beginner friendly while being very capable). You can easily extend and build on top of the excellent foundations provided to create a fully fledged game in the Playground browser.
 
 ### More fundamentals to explore
 - Loops
@@ -54,5 +54,6 @@ We highly recommend exploring these demo's and their code (they are very beginne
 - Events
 - Assets
 
-## Additional resources
+### Additional resources
+Walkthrough: Code Zelda in JavaScript with Kaboom.js!
 https://www.youtube.com/watch?v=XX93O4ZVUZI
